@@ -2,7 +2,7 @@
 
 Just my first repository
 
-My name is Full Leather Jacket. I ride a motorbike and watch movies.
+My name is Full Leather Jacket. I ride a motorcycle and watch movies.
 
 You'll find me on a cafe racer. 
 
